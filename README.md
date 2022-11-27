@@ -8,7 +8,7 @@ Trecho e código em python `print('Hello, world!')`
 Minhas ambições ao fim da disiplina:
 * Criar um software do zero com mais confiança;
 * Escrever códigos melhores;
-* Criar um projeto do zero:
+* Criar um projeto do zero.
 
 Link:
 * [Meu github](https://github.com/ArlanTR)
