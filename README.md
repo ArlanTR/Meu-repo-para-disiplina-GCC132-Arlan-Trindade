@@ -10,3 +10,8 @@ Minhas ambições ao fim da disiplina:
 * Escrever códigos melhores;
 * Criar um projeto do zero:
 
+Link:
+* [Meu github](https://github.com/ArlanTR)
+
+Meu Avatar:
+* ![Meu Avatar](https://avatars.githubusercontent.com/u/76694229?s=400&u=110df1f2a37f59d07fb57d1552fa24c53e752338&v=4)
